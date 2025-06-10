@@ -1,4 +1,4 @@
 # hiit-cdn
 
 ## yt
-  - https-//i.ytimg.com/vi/
+  - https://i.ytimg.com/vi/
